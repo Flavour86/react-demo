@@ -57,7 +57,7 @@ module.exports = {
     new WebpackBrowserPlugin(),
     new HtmlWebpackPlugin({
       template: 'src/index.html',
-      title: 'webpack 测试demo',
+      title: 'a demo by react',
       filename: './index.html',
       hash: true
     })
