@@ -1,0 +1,9 @@
+body{
+  background-color: gold;
+
+  .app{
+    width: 1000px;
+    height: 500px;
+    border: #000000 1px solid;
+  }
+}
